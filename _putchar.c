@@ -15,6 +15,6 @@ int _putchar(char c)
 
 /**
  * Authors:
- * Kyle Stoles 
+ * Kyle Stols 
  * Mpho Chepape
  */
