@@ -53,6 +53,6 @@ int _printf(const char *format, ...)
 
 /**
  * Authors:
- * Kyle Stoles 
+ * Kyle Stols 
  * Mpho Chepape
  */
