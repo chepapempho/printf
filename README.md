@@ -5,8 +5,11 @@
 # An Alternative implementation of printf
 
 This project repository contains an implimentation of the **printf()** function. 
+
 Course: ALX Software Engineering program.
+
 Module: Low level programming.
+
 Project 1: implement printf().
 
 ## Project overview
