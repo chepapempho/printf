@@ -106,6 +106,6 @@ Output:   Your integer is: 2
 ```
 
 ## Author(s)
-##### Kyle Stoles
+##### Kyle Stols
 ##### Mpho Chepape
 ALX Software Engineering
