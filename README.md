@@ -65,7 +65,7 @@ ___
 
 **int print_pct(va_list args)**
 
-Prints percentatge sign
+Prints percentage sign
 ___
 
 **int _putchar(char c)**
