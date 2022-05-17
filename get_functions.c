@@ -31,6 +31,6 @@ int (*get_func(const char *format))(va_list)
 
 /**
  * Authors:
- * Kyle Stoles 
+ * Kyle Stols 
  * Mpho Chepape
  */
