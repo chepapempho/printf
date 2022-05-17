@@ -32,6 +32,6 @@ int print_dec(va_list args);
 
 /**
  * Authors:
- * Kyle Stoles 
+ * Kyle Stols 
  * Mpho Chepape
  */
